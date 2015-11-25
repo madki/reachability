@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Reachability</string>
+    <string name="hello">Hello</string>
+    <string name="trigger_desc">Trigger for Reachability</string>
+    <string name="close">Close Button</string>
+</resources>
